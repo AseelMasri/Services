@@ -1,0 +1,16 @@
+.services{
+    text-align: center;
+}
+.services-mini{
+    float: left;
+    width:33.3%;
+    text-align: center;
+}
+.clearfix{
+    clear:both;
+}
+i{
+    background-color: orange;
+    color: white;
+   width: 40px;
+}
